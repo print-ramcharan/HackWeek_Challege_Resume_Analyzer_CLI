@@ -7,8 +7,10 @@
 2. **open in terminal / preferred IDLE**
 
 3. **run the command**
-        ``` bash
-        pip install -r requirements.txt** 
+        
+    ``` bash
+    pip install -r requirements.txt** 
+    
    
     this installs the required dependencly/ package
 
