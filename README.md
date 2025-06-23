@@ -15,7 +15,7 @@
     this installs the required dependencly/ package
 
    - PyMuPDF 
-   ![Inspect Screenshot](Screenshot.png) 
+   ![Inspect Screenshot](Screenshot1.png) 
 
    - argparse 
    ![Inspect Screenshot](Screenshot2.png)
