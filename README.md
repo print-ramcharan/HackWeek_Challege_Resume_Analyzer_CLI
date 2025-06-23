@@ -8,11 +8,10 @@
 
 3. **run the command**
         
-        ``` python
-        pip install -r requirements.txt 
-        ```
+    ``` python
+    pip install -r requirements.txt 
+     ```
 
-   
     this installs the required dependencly/ package
 
    - PyMuPDF 
@@ -36,7 +35,6 @@
     pip3 main.py (absolute path)
 
     pip3 main.py users/yourname/desktop/resume.pdf
-
     ```
     
 7. this will give you the output.
