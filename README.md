@@ -26,15 +26,15 @@
 5. then run as
 
     ``` python
-     pip3 main.py resume.py
+     python3 main.py resume.py
     ```
 
 6. if not willing to paste the resume and rename to resume just give the absolute path of your resume.
 
     ``` python
-    pip3 main.py (absolute path)
+    python3 main.py (absolute path)
 
-    pip3 main.py users/yourname/desktop/resume.pdf
+    python3 main.py users/yourname/desktop/resume.pdf
     ```
     
 7. this will give you the output.
