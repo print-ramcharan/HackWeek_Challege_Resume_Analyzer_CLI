@@ -8,17 +8,17 @@
 
 3. **run the command**
         
-        ``` bash
+        ``` python
         pip install -r requirements.txt 
         ```
 
    
     this installs the required dependencly/ package
 
-   PyMuPDF 
+   - PyMuPDF 
    ![Inspect Screenshot](Screenshot.png) 
 
-   argparse 
+   - argparse 
    ![Inspect Screenshot](Screenshot2.png)
 
 
