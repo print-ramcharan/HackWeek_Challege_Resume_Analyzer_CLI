@@ -10,6 +10,7 @@
         
         ``` bash
         pip install -r requirements.txt 
+        ```
 
    
     this installs the required dependencly/ package
@@ -27,6 +28,7 @@
 
     ``` python
      pip3 main.py resume.py
+    ```
 
 6. if not willing to paste the resume and rename to resume just give the absolute path of your resume.
 
@@ -34,6 +36,8 @@
     pip3 main.py (absolute path)
 
     pip3 main.py users/yourname/desktop/resume.pdf
+
+    ```
     
 7. this will give you the output.
 
