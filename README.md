@@ -7,8 +7,8 @@
 2. **open in terminal / preferred IDLE**
 
 3. **run the command**
-    ``` bash
-    pip install -r requirements.txt** 
+        ``` bash
+        pip install -r requirements.txt** 
    
     this installs the required dependencly/ package
 
@@ -30,7 +30,7 @@
 
     ``` python
     pip3 main.py (absolute path)
-    
+
     pip3 main.py users/yourname/desktop/resume.pdf
     
 7. this will give you the output.
